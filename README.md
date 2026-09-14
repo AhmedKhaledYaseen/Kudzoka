@@ -2,6 +2,8 @@
 
 Kudzoka is a modern, responsive landing page for a logistics and delivery service company. It provides users with an overview of the services offered, such as super-fast delivery, real-time tracking, volume-based discounts, and round-the-clock support.
 
+**[🔴 Live Demo](https://kudzoka-two-gamma.vercel.app)**
+
 ## 🚀 Features
 
 - **Responsive Design**: Adapts seamlessly to different screen sizes.
